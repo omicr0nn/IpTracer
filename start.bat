@@ -1,3 +1,3 @@
 @echo off
-node IpTracker.js
+node IpTracer.js
 pause
