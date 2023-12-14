@@ -27,7 +27,7 @@ npm install axios readline fs colors
 node IpTracer.js
 ```
 
-![Kali](https://i.hizliresim.com/7ixcxoq.png)
+![Kali](https://i.hizliresim.com/4d21eyq.png)
 
 ####
 # With ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
